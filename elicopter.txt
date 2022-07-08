@@ -1,0 +1,9 @@
+12,Flamingo,agricultura vacanta medical,2014
+2,Apache,militar medical,1995
+45,Stark Rebound,militar livrare,2019
+3,Ubb,medical aerian,1998
+6,Seba,national,2002
+7,Tare,agricultura national,2021
+8,Wizair,vacanta,2000
+9,Emirates,vacanta frumos,2010
+10,Crab,livrare,2001
